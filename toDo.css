@@ -1,0 +1,13 @@
+li{
+  background: orange;
+  border: 2px solid red;
+}
+
+#finish {
+  border: 5px solid blue;
+  background-color: yellow;
+}
+
+.completed {
+  text-decoration: line-through;
+}
